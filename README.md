@@ -4,10 +4,9 @@ Cybersecurity • Cloud Security • Security Operations
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Cybersecurity-SOC-blue">
+<img src="https://img.shields.io/badge/Cybersecurity-SecOps-blue">
 <img src="https://img.shields.io/badge/Cloud-AWS-orange">
-<img src="https://img.shields.io/badge/SIEM-Wazuh-green">
-<img src="https://img.shields.io/badge/SOAR-TheHive-red">
+<img src="https://img.shields.io/badge/Red Team-PenTesting-red">
 </p>
 
 ---
@@ -45,12 +44,12 @@ Technical certifications grouped by professional domains:
 
 ---
 
-## [Awards and Distinctions](AwardsandDistinctions)
+## [Awards and Distinctions](Awards%20and%20Distinctions)
 Academic and professional recognitions:
 
 - Extraordinary Bachelor's Degree Award
 
-📁 [Excellence Bachelor's Degree Award](/AwardsandDistinctions/ExcellenceAward.pdf)
+📁 [Excellence Bachelor's Degree Award](/Awards%20and%20Distinctions/ExcellenceAward.pdf)
 
 ---
 
