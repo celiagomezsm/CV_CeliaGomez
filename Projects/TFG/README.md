@@ -31,15 +31,15 @@ The implemented SOC architecture includes:
 ## 🎥 Demonstration Videos
 | Scenario | File |
 |----------|------|
-| SSH brute-force attack | `BruteForce.mp4` |
-| Phishing attack | `Phishing.mp4` |
+| SSH brute-force attack | [BruteForce.mp4](BruteForce.mp4) |
+| Phishing attack | [Phishing.mp4](Phishing.mp4) |
 
 ---
 
-## 📄 Thesis Document
-The complete thesis document is available at:
+## 📄 Project Document
+The complete project document is available at:
 
-- `TFG_Gomez_Celia_2025.pdf`
+- [TFG_Gomez_Celia_2025.pdf](TFG_Gomez_Celia_2025.pdf)
 
 It includes:
 - Architecture design
@@ -57,6 +57,6 @@ The main objective is to design a **replicable, cost-effective, and scalable SOC
 
 ## 👩‍💻 Author
 **Celia Gómez San Martín**  
-Bachelor’s Degree in Telecommunications Engineering  
+Degree in Telecommunications Engineering  
 University of Alcalá  
 
