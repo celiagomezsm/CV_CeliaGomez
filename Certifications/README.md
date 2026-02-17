@@ -7,7 +7,7 @@ They are organized by technical area and will be continuously updated as new cer
 
 ## Categories
 
-### [Languages](Languajes)
+### [Languages](Languages)
 Certifications related to language proficiency and communication skills.
 
 ### [Cloud](Cloud)
