@@ -18,13 +18,13 @@ The project proposes the design and implementation of a practical SOC laboratory
 The implemented SOC architecture includes:
 
 - Cloud infrastructure deployed on **AWS**
-- SIEM: **Wazuh**
-- SOAR: **TheHive**, **Cortex**, **MISP**
+    - SIEM: **Wazuh**
+    - SOAR: **TheHive**, **Cortex**, **MISP**
 - Virtualized environment using **VMware**
-- Laboratory machines:
-  - Kali Linux (Attacker)
-  - Windows Server (Domain Controller)
-  - Windows 10 (Victim)
+    Laboratory machines:
+    - Kali Linux (Attacker)
+    - Windows Server (Domain Controller)
+    - Windows 10 (Victim)
 
 ---
 
