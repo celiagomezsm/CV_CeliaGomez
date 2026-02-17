@@ -45,12 +45,12 @@ Technical certifications grouped by professional domains:
 
 ---
 
-## [Awards and Distinctions](Awards and Distinctions)
+## [Awards and Distinctions](AwardsandDistinctions)
 Academic and professional recognitions:
 
 - Extraordinary Bachelor's Degree Award
 
-📁 [Excellence Bachelor's Degree Award](/Awards and Distinctions/ExcellenceAward.pdf)
+📁 [Excellence Bachelor's Degree Award](/AwardsandDistinctions/ExcellenceAward.pdf)
 
 ---
 
